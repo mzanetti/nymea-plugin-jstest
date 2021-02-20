@@ -1,11 +1,11 @@
 {
-    "name": "jstest",
-    "displayName": "jstest",
+    "name": "whereTheIssAt",
+    "displayName": "Where the ISS at?",
     "id": "aca9d478-25c9-435f-b8d2-caf9c39a9b19",
     "vendors": [
         {
             "name": "nymea",
-            "displayName": "nymea",
+            "displayName": "nymea GmbH",
             "id": "2062d64d-3232-433c-88bc-0d33c0ba2ba6",
             "thingClasses": [
                 {
